@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dollorofkorea
+- 👋 Hi, I’m @KoreaMoney
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Typescriprt
 - 📫 How to reach me ...
