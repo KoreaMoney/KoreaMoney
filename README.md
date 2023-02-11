@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoreaMoney
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Typescriprt
-- 📫 How to reach me ...
+- 📫 MyBlogLink : https://kimdowon1404.tistory.com/
 
 <!---
 dollorofkorea/dollorofkorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
