@@ -7,7 +7,7 @@ To become a happy developer, I am a developer who always has various engineer th
 - ## 🖥️ It's a development skill that I have.
 - ### 🛜 React, NextJS
 - ### 🔠 Typescript, Javascript
-- ### 💇 Styled-component, emtion
+- ### 💇 Styled-component, emtion, tailwindcss
 - ### 🚸 HTML5, CSS3
 - ### 📚 Recoil, React-router-dom, tanstack-query
 - ### ⚠️ Jest, React-testing-library 
