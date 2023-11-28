@@ -12,8 +12,8 @@ To become a happy developer, I am a developer who always has various engineer th
 - ### 📚 Recoil, React-router-dom, tanstack-query
 - ### ⚠️ Jest, React-testing-library 
 
-- ## 📫 My-BlogLink : https://kimdowon1404.tistory.com/
-- ## 📫 LinkedIn : www.linkedin.com/in/dowon-kim-415646237
+- ### 📫 My-BlogLink : https://kimdowon1404.tistory.com/
+- ### 📫 LinkedIn : www.linkedin.com/in/dowon-kim-415646237
 
 <!---
 dollorofkorea/dollorofkorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
