@@ -14,6 +14,7 @@ To become a happy developer, I am a developer who always has various engineer th
 
 -  📫 My-BlogLink : https://kimdowon1404.tistory.com/
 -  📫 LinkedIn : www.linkedin.com/in/dowon-kim-415646237
+-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 -  <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dowon-kim-415646237" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/dowon-kim-415646237?trk=profile-badge">Dowon Kim</a></div>
               
 
