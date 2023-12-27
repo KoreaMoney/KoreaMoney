@@ -5,12 +5,13 @@ To become a happy developer, I am a developer who always has various engineer th
 
 - 🌱 Currently, I study type script steadily, and I study new technology, but I am trying to strengthen my basic knowledge.
 - ## 🖥️ It's a development skill that I have.
-- ### 🛜 React, NextJS
+- ### 🛜 React, NextJS, Vite
 - ### 🔠 Typescript, Javascript
 - ### 💇 Styled-component, emtion, tailwindcss
 - ### 🚸 HTML5, CSS3
-- ### 📚 Recoil, React-router-dom, tanstack-query
-- ### ⚠️ Jest, React-testing-library 
+- ### 📚 Recoil, React-router-dom, react-query
+- ### ⚠️ Jest, React-testing-library
+- ### 🦾 Three.js
 
 -  📫 LinkedIn : https://www.linkedin.com/in/dowon-kim-415646237
               
