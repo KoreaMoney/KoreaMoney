@@ -14,7 +14,7 @@ To become a happy developer, I am a developer who always has various engineer th
 - ### 🦾 Three.js
 
 -  📫 LinkedIn : https://www.linkedin.com/in/dowon-kim-415646237
--  📫 Portfolio : https://kimdowon-portfolio.vercel.app/
+-  📫 blog : https://velog.io/@korea-dollar/posts
               
 
 <!---
