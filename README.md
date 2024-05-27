@@ -15,6 +15,7 @@ To become a happy developer, I am a developer who always has various engineer th
 
 -  📫 LinkedIn : https://www.linkedin.com/in/dowon-kim-415646237
 -  📫 blog : https://velog.io/@korea-dollar/posts
+-  🖥️ porfolio : https://portfolio-next14-beginner.vercel.app/
               
 
 <!---
