@@ -12,12 +12,12 @@ I am also a knowledge sharer who enjoys sharing my insights and experiences with
 - 🌱 Currently, I study type script steadily, and I study new technology, but I am trying to strengthen my basic knowledge.
 - ## 🖥️ It's a development skill that I have.
 - ### 🛜 ReactJS, NextJS, Vite
-- ### 🔠 Typescript, Javascript
-- ### 💇 Styled-component, emtion, tailwindcss, moduleCSS
-- ### 🚸 HTML5, CSS3
-- ### 📚 Recoil, React-router-dom, tanstack-query, zustand
+- ### 🔠 SQL,Python
+- ### 💇 Styled-component, emtion, tailwindCss, moduleCSS, SASS
+- ### 🚸 HTML5, CSS3, Typescript, Javascript
+- ### 📚 Recoil, React-router-dom, tanstack-query, zustand, React-hook-form
 - ### ⚠️ Jest, React-testing-library
-- ### 🦾 Three.js, react-three-fiber
+- ### 🦾 Three.js, R3F(react-three-fiber), webGL
 
 -  📫 LinkedIn : https://www.linkedin.com/in/dowon-kim-415646237
 -  📫 blog : https://velog.io/@korea-dollar/posts
